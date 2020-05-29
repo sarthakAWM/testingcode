@@ -2,6 +2,6 @@ FROM sarthak2703/all-required-extensions-php:latest
 
 CMD [ "rm", "index.php" ]
 
-COPY . .
+COPY app/ .
 
 EXPOSE 80 443
