@@ -1,0 +1,6 @@
+[
+  {
+    "name": "custom",
+    "imageUri": "348815623168.dkr.ecr.us-east-2.amazonaws.com/sarthak-nginx-phpall:latest"
+  }
+]
