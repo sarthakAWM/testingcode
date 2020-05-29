@@ -1,0 +1,7 @@
+FROM sarthak2703/all-required-extensions-php:latest
+
+CMD [ "rm", "index.php" ]
+
+COPY . .
+
+EXPOSE 80 443
